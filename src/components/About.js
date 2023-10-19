@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-        Final year student of Btech CSE looking for an opportunity in Software Development. <br />
+        Recent Btech CSE graduate looking for an opportunity in Software Development. <br />
         Strong in design and integration with intuitive problem-solving skills. <br />
         Passionate about implementing and launching new projects. <br />
         Ability to translate business requirements into technical solutions. <br /> 
